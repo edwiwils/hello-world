@@ -1,0 +1,15 @@
+user1:
+  location:
+    city: Dallas
+    state: TX
+  name: john
+  roles:
+  - admin
+  - user
+user2:
+  location:
+    city: Philadelphia
+    state: PA
+  name: jill
+  roles:
+  - user
